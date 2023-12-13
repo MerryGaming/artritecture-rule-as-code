@@ -1,0 +1,1 @@
+# artritecture-rule-as-code
